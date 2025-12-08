@@ -21,5 +21,4 @@ int main() {
         printf("A rainha se moveu para a esquerda\n");
         printf("Casa atual %d\n", r);
     }
-    
 }
